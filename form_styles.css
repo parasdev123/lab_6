@@ -29,6 +29,8 @@ textarea {
   width: 300px;
   border: 1px solid #ccc;
   border-radius: 4px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 li {
